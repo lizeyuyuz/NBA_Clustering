@@ -1,0 +1,4 @@
+load("/Users/zeyu/installed_old.rda")
+# how to run code is a question
+setwd("~/Dropbox/umich_2017_winter/stats503/project")
+library(stringr)
